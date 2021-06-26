@@ -9,6 +9,6 @@ App that converts your age into minutes.
 | <img src="/design/app.jpeg" alt="drawing" height="400"/>|  <img src="/design/Select_Date.jpeg" alt="drawing" height="400"/> |   <img src="/design/Date_Selected.jpeg" alt="drawing" height="400"/>|
 
 # Download APK
-<a href="https://github.com/Zaratee/AgeInMinutes/blob/master/apk/Age%20in%20minutes.apk"> Age In Minutes.apk</a>
+<a href="https://github.com/Zaratee/AgeInMinutes/raw/master/apk/Age%20in%20minutes.apk"> Age In Minutes.apk</a>
 
 
